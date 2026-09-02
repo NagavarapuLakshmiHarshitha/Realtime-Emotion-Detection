@@ -5,7 +5,7 @@ An AI-based real-time emotion recognition system that analyzes facial expression
 ## 🔗 Project Resources
 * **Google Drive Folder:** [Drive Link](https://drive.google.com/drive/folders/1D1dpcatKgJhllT4IBlyLDUM1yMC2CKqI)
 * **Presentation (PPT):** [Google Slides](https://docs.google.com/presentation/d/1SpDMMiD0xhvXvMlzZNdP9Dbb53EdO3ce/edit?slide=id.p1#slide=id.p1)
-* **Colab Notebook:** [Emotion Detector.ipynb](https://colab.research.google.com/drive/1tRKrMbOXhNQRP5RQCWeMHEdxLPg1Rdqg)
+* **Colab Notebook:** [Emotion Detector.ipynb] (https://colab.research.google.com/drive/1tRKrMbOXhNQRP5RQCWeMHEdxLPg1Rdqg)
 
 ---
 
